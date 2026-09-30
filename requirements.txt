@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+joblib>=1.4
+datasets>=3.0
+streamlit>=1.39
+matplotlib>=3.9
+transformers>=4.40,<5
+torch>=2.2
+safetensors>=0.4

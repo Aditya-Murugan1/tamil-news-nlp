@@ -1,0 +1,10 @@
+{
+  "dataset": "mteb/TamilNewsClassification",
+  "splits": [
+    "train",
+    "test"
+  ],
+  "text_column": "text",
+  "label_column": "label",
+  "schema": "{'text': Value('string'), 'label': Value('int64')}"
+}

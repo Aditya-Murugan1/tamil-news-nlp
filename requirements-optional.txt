@@ -1,0 +1,2 @@
+# Optional Tamil POS integration. Stanza never downloads models automatically.
+stanza>=1.8
